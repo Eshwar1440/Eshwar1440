@@ -14,7 +14,7 @@
 
 - CS Junior @ UT Dallas (GPA: 3.81) | Graduating Spring 2027
 - Building full-stack apps with Next.js and Supabase
-- Open to **SWE / AI-ML / DevOps internships**
+- Open to **SWE / AI-ML / DevOps / SAP internships**
 
 ---
 
