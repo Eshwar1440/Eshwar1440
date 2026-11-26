@@ -1,13 +1,8 @@
 <h1 align="center">Hey, I'm Eshwar</h1>
 
 <p align="center">
-  CS Junior @ UT Dallas &nbsp;·&nbsp; Richardson, TX
+  CS Senior @ UT Dallas &nbsp;·&nbsp; Richardson, TX
 </p>
-
-<p align="center">
-  Building at the intersection of AI, cybersecurity, and full-stack engineering.
-</p>
-
 ---
 
 ### About Me
@@ -29,14 +24,6 @@
   "Tools":       ["Supabase", "PostgreSQL", "Prisma"]
 }
 ```
-
----
-
-### What I'm Working On
-
-- **Scrawl**, a Chrome extension notepad that keeps notes separate per window and deletes them when you close it
-
----
 
 ### Projects
 
